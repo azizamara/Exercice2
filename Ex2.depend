@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1622667781 source:c:\users\asus\desktop\ex2-main\src\fifo.cpp
+	"FIFO.h"
+
+1622667933 c:\users\asus\desktop\ex2-main\include\fifo.h
+	<iostream>
+	<BaseListe.h>
+
+1622668243 c:\users\asus\desktop\ex2-main\include\baseliste.h
+	<list>
+	<iostream>
+
+1622667406 source:c:\users\asus\desktop\ex2-main\src\baseliste.cpp
+	"BaseListe.h"
+
+1622668035 source:c:\users\asus\desktop\ex2-main\src\lifo.cpp
+	"LIFO.h"
+
+1622668207 c:\users\asus\desktop\ex2-main\include\lifo.h
+	<iostream>
+	<BaseListe.h>
+
+1622668092 source:c:\users\asus\desktop\ex2-main\main.cpp
+	<iostream>
+	<BaseListe.h>
+	<LIFO.h>
+	<FIFO.h>
+	<list>
+
